@@ -41,6 +41,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 
 ## Acesso a aplicação: 
 https://explorer-lab-01-alpha-ruddy.vercel.app/
+<a href="https://explorer-lab-01-alpha-ruddy.vercel.app/" target="_blank">RocketPay</a>
 
 ## :memo: Licença
 
