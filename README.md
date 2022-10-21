@@ -40,7 +40,6 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## Acesso a aplicação: 
-https://explorer-lab-01-alpha-ruddy.vercel.app/
 <a href="https://explorer-lab-01-alpha-ruddy.vercel.app/" target="_blank">RocketPay</a>
 
 ## :memo: Licença
@@ -49,4 +48,3 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
